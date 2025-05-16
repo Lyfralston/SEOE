@@ -22,7 +22,7 @@ This is the repository for the paper [SEOE: A Scalable and Reliable Semantic Eva
 - **2025 May 16:** Paper is accepted by [ACL 2025](https://2025.aclweb.org/) Main Conference.
 - **2024 Mar 5:** Paper is available on [arXiv](https://arxiv.org/abs/2503.03303).
 
-## Release of SEOE's Benchmarks
+## 📊 Release of SEOE's Benchmarks
 
 You can find all of the following data clearly named in [this huggingface repository](https://huggingface.co/datasets/Ralston/SEOE_benchmark).
 
